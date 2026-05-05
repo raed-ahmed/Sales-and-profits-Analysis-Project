@@ -59,6 +59,10 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 * Optimize **COGS** to improve profit margins
 * Strengthen underperforming channels (Mobile App & Marketplace)
 
+* ## 📷 Dashboard Preview
+
+![Dashboard](Images/1-Sales_Dasboard.png)
+
 ## 🛠 Tools & Technologies
 
 * **Power BI**
