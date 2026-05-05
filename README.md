@@ -5,7 +5,7 @@
 This project presents a **Power BI solution** consisting of two interactive dashboards designed to analyze both **sales performance** and **profits Performance**.
 
 * 📈 **Sales Dashboard** – Tracks sales trends, channel behavior, market performance and more
-* 💰 **Profit Dashboard** – Focuses on costs, margins, and profit distribution
+* 💰 **Profit Dashboard** – Focuses on COGS, profit margin, and profit distribution
 
 Together, they provide a complete view of **business performance (Top-line & Bottom-line)** to support data-driven decision-making.
 
@@ -16,8 +16,6 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 * Analyze sales channels and shipping methods
 * Understand profitability drivers and cost impact
 
----
-
 ## ⚙️ Key Features
 
 * 🔍 Interactive slicers (**Year, Country, Category**)
@@ -27,26 +25,23 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 * 📈 Monthly and yearly trends
 * 🚚 Shipping mode & sales channel insights
 
----
+## 📈 Sales Dashboard — Key Insights (For the selected year = 2023)
 
-## 📈 Sales Dashboard — Key Insights
-
-* **Consistent Growth**: Sales increased from **$1.15M (2022)** to **$1.23M (2025)**
+* **Consistent Growth**: Sales increased from **$1.15M (2022)** to **$1.19M (2023)**
 * **Top Market**: Egypt leads sales, followed by UAE and Saudi Arabia
 * **Main Channel**: Website contributes ~58% of total sales
 * **Shipping Preference**: Standard shipping dominates (~63%)
 * **Top Category**: Electronics is the highest revenue generator
 * **Seasonality**:
 
-  * Peaks in **March & July**
-  * Noticeable drop in **September**, followed by recovery in Q4
+  * Peaks in **January & March**
+  * Noticeable drop in **September**
 
----
+## 💰 Profit Dashboard — Key Insights (For the selected year = 2023)
 
-## 💰 Profit Dashboard — Key Insights
-
-* **Profit Growth**: Increased from **$212K (2022)** to **$223K (2025)**
-* **Profit Margin**: ~18% indicating stable profitability
+* **Profit Growth**: Increased from **$212K (2022)** to **$217K (2023)**
+* **Profit Margin**: Decreased from **18.5% (2022)** to **18.2% (2023)**
+* with almost a stable performance
 * **Top Profit Market**: Egypt generates the highest profit
 * **Category Performance**:
 
@@ -54,11 +49,8 @@ Together, they provide a complete view of **business performance (Top-line & Bot
   * Losses observed in **Books and Grocery** ❗
 * **Monthly Trend**:
 
-  * Strong in **Q1 (Jan–Mar)**
-  * Decline in **Sep–Oct**
-* **Cost Impact**: High **COGS (~$974K)** directly impacts profitability
-
----
+  * Strong in **January, March, and Julie**
+  * Decline in **September and October**
 
 ## 🧠 Business Recommendations
 
@@ -67,8 +59,6 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 * Focus marketing efforts during peak months
 * Optimize **COGS** to improve profit margins
 * Strengthen underperforming channels (Mobile App & Marketplace)
-
----
 
 ## 🛠 Tools & Technologies
 
@@ -79,16 +69,11 @@ Together, they provide a complete view of **business performance (Top-line & Bot
   * Interactive Visualizations
 * Data Cleaning & Transformation
 
----
-
 ## 📂 Repository Contents
 
 * 📊 Power BI File (.pbix)
 * 🖼 Dashboard Screenshots
 * 🎥 Demo Video *(Add your Google Drive link here)*
-
----
-
 ## 📎 How to Use
 
 1. Open the `.pbix` file using Power BI Desktop
@@ -97,8 +82,6 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 
    * Sales Dashboard
    * Profit Dashboard
-
----
 
 ## 📬 Contact
 
