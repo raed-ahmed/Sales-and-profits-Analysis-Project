@@ -40,8 +40,7 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 ## 💰 Profit Dashboard — Key Insights (For the selected year = 2023)
 
 * **Profit Growth**: Increased from **$212K (2022)** to **$217K (2023)**
-* **Profit Margin**: Decreased from **18.5% (2022)** to **18.2% (2023)**
-* with almost a stable performance
+* **Profit Margin**: Decreased from **18.5% (2022)** to **18.2% (2023)**with almost a stable performance
 * **Top Profit Market**: Egypt generates the highest profit
 * **Category Performance**:
 
