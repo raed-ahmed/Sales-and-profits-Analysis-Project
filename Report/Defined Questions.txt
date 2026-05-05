@@ -1,0 +1,52 @@
+
+What is the questions that need answers?
+
+Profits Analysis Dashboard:
+
+	01-What is number of orders? - Card
+	    - What is the percentage of growth or decline in number of orders vs previous year?
+	02-What is total quantity? - Card
+	    - What is the percentage of growth or decline in total quantity vs previous year?
+	03-What is COGS (Cost Of Goods Sold) - Card
+	    - What is the percentage of growth or decline in COGS vs previous year?
+	04-What is profit margin? - Card
+	    - What is the percentage of growth or decline in profit margin vs previous year?
+	05-What is total sales? - Gauge chart
+	06-What is total profits? - Gauge chart
+
+	07-What is total profits by year? - Column chart
+	08-What is total profits by month? - Line Chart
+	09-What is total profits by country? - Bar Chart
+	10-What is the relationship between profits and costs by category? - Column & Line chart
+
+Sales Analysis Dashboard:
+
+	01-What is the total sales? - Card
+	    - What is the percentage of growth or decline in sales vs previous year?
+	02-What is the avg sales? - Card
+	    - What is the percentage of growth or decline in ang sales vs previous year?
+	03-What is the avg discount? - Card
+	    - What is the percentage of growth or decline in avg discount vs previous year?
+	04-What is the return rate? - Card
+	    - What is the percentage of growth or decline in return rate vs previous year?
+
+	07-What is total sales by year? - Column chart
+	08-What is total sales by channel? - Donut chart
+	09-What is total sales by ship mode? - Donut chart
+	10-What is total profits by country? - Bar chart
+	11-What is total profits by month? - Line Chart
+	12-What is the relationship between sales and profits by category? - Column & Line chart
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
