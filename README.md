@@ -5,7 +5,7 @@
 This project presents a **Power BI solution** consisting of two interactive dashboards designed to analyze both **sales performance** and **profits Performance**.
 
 * 📈 **Sales Dashboard** – Tracks sales trends, channel behavior, market performance and more
-* 💰 **Profit Dashboard** – Focuses on COGS, profit margin, and profit distribution
+* 💰 **Profit Dashboard** – Focuses on COGS, profit margin, and profit distribution and more
 
 Together, they provide a complete view of **business performance (Top-line & Bottom-line)** to support data-driven decision-making.
 
@@ -62,6 +62,10 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 * ## 📷 Project Preview
 * Home Page
 ![Dashboard](Images/1-Home_Page.png)
+* Sales Dashboard
+![Dashboard](Images/2-Sales_Dashboard.png)
+* Profits Dashboard
+![Dashboard](Images/2-Profits_Dashboard.png)
 
 ## 🛠 Tools & Technologies
 
