@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Analysis Project (Power BI)
+# 📊 Sales & Profit Project (Power BI)
 
 ## 📌 Project Overview
 
@@ -59,9 +59,9 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 * Optimize **COGS** to improve profit margins
 * Strengthen underperforming channels (Mobile App & Marketplace)
 
-* ## 📷 Dashboard Preview
-
-![Dashboard](Images/1-Sales_Dasboard.png)
+* ## 📷 Project Preview
+* Home Page
+![Dashboard](Images/1-Home_Page.png)
 
 ## 🛠 Tools & Technologies
 
