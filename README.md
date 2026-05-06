@@ -75,12 +75,8 @@ Together, they provide a complete view of **business performance (Top-line & Bot
   * DAX Measures
   * Interactive Visualizations
 * Data Cleaning & Transformation
+* Figma
 
-## 📂 Repository Contents
-
-* 📊 Power BI File (.pbix)
-* 🖼 Dashboard Screenshots
-* 🎥 Demo Video *(Add your Google Drive link here)*
 ## 📎 How to Use
 
 1. Open the `.pbix` file using Power BI Desktop
@@ -90,7 +86,8 @@ Together, they provide a complete view of **business performance (Top-line & Bot
    * Sales Dashboard
    * Profit Dashboard
 
-## 📬 Contact
+## 👤 Author
+**Raed Ahmed**
 
-Feel free to connect with me for feedback or collaboration opportunities.
+⭐ If you found this project useful, don't forget to star the repo!
 
