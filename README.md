@@ -67,6 +67,10 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 * Profits Dashboard
 ![Dashboard](Images/3-Profits_Dashboard.png)
 
+## 🎥 Interactive Video
+
+👉 **[Watch Full Video](https://drive.google.com/file/d/1qXRjpJ4A08tI_LNcJCjtbYWiPC-W7luu/view?usp=drivesdk)**
+
 ## 🛠 Tools & Technologies
 
 * **Power BI**
