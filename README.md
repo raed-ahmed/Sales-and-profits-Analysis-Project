@@ -69,7 +69,7 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 
 ## 🎥 Interactive Video
 
-👉 **[Watch Full Video](https://drive.google.com/file/d/1qXRjpJ4A08tI_LNcJCjtbYWiPC-W7luu/view?usp=drivesdk)**
+👉 **[Watch Full Video](https://drive.google.com/file/d/1KuncO6WwxO7AmcnHc-b_KqaCWbcZIfix/view?usp=drivesdk)**
 
 ## 🛠 Tools & Technologies
 
