@@ -80,7 +80,8 @@ Together, they provide a complete view of **business performance (Top-line & Bot
   * Interactive Visualizations
 * **Power Query**
   * Data Cleaning & Transformation
-* Figma
+* **Figma*
+  * Dashboard Design
 
 ## 📎 How to Use
 
