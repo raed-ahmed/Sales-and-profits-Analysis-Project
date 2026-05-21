@@ -65,8 +65,9 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 * Sales Dashboard
 ![Dashboard](Images/2-Sales_Dashboard.png)
 * Profits Dashboard
-![Dashboard](Images/3-Profits_Dashboard.png)
-
+![Dashboard](Images/3Profits_Dashboard.png)
+* Data Model
+![Dashboard](Images/The_Data_Model.png)
 ## 🎥 Interactive Video
 
 👉 **[Watch Full Video](https://drive.google.com/file/d/1KuncO6WwxO7AmcnHc-b_KqaCWbcZIfix/view?usp=drivesdk)**
