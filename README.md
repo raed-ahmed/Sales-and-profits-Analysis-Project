@@ -63,9 +63,9 @@ Together, they provide a complete view of **business performance (Top-line & Bot
 * Home Page
 ![Dashboard](Images/1-Home_Page.png)
 * Sales Dashboard
-![Dashboard](Images/2-Sales_Dashboard.png)
+![Dashboard](Images/Sales-Dashboard.png)
 * Profits Dashboard
-![Dashboard](Images/3-Profits_Dashboard.png)
+![Dashboard](Images/Profit-Dashboard.png)
 * Data Model(Star Schema)
 ![Dashboard](Images/The_Data_Model.png)
 
