@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Project (Power BI)
+# 📊 Sales & Profit Analysis Project (Power BI)
 
 ## 📌 Project Overview
 
